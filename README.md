@@ -1,2 +1,3 @@
-# myportfolio
-This is my professional portfolio
+# Jody Blackwoods Portfolio
+
+This is my professional portfolio. It uses aws and ReactJS.
